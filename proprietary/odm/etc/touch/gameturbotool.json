@@ -1,0 +1,22 @@
+{
+    "name":"SMotion",
+    "version":"1.0",
+    "product":"chenfeng",
+
+    "SUPER CHIP": {
+        "MODE":10002,
+        "DEFAULT":true,
+        "APP":[
+
+        ]
+    },
+
+    "SUPER ALGO": {
+        "MODE":10003,
+        "DEFAULT":true,
+        "APP":[
+
+        ]
+    }
+}
+
