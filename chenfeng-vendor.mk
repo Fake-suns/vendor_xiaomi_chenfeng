@@ -4843,6 +4843,7 @@ PRODUCT_PACKAGES += \
     libarmemlog \
     liblx-osal \
     libvui_intf \
+    vendor.qti.hardware.pal@1.0-impl.so \
     vendor.qti.hardware.AGMIPC@1.0-impl \
     com.google.android.widevine.nonupdatable \
     CACertService \
