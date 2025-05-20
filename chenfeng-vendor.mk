@@ -4839,6 +4839,7 @@ PRODUCT_PACKAGES += \
     libPeripheralStateUtils \
     libagm \
     libar-gsl \
+    libar-pal \
     libarmemlog \
     liblx-osal \
     libvui_intf \
