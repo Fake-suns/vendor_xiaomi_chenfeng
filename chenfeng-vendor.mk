@@ -3406,7 +3406,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.power-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.power-service.rc \
     vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.secure_element-service.qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.secure_element-service.qti.rc \
     vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.security.keymint-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.security.keymint-service-qti.rc \
-    vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.security.keymint-service.strongbox-nxp.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.security.keymint-service.strongbox-nxp.rc \
     vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.sensors-service-multihal.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.sensors-service-multihal.rc \
     vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.thermal-service.qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.thermal-service.qti.rc \
     vendor/xiaomi/chenfeng/proprietary/vendor/etc/init/android.hardware.usb-service.qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.usb-service.qti.rc \
@@ -4843,7 +4842,7 @@ PRODUCT_PACKAGES += \
     libarmemlog \
     liblx-osal \
     libvui_intf \
-    vendor.qti.hardware.pal@1.0-impl.so \
+    vendor.qti.hardware.pal@1.0-impl \
     vendor.qti.hardware.AGMIPC@1.0-impl \
     com.google.android.widevine.nonupdatable \
     CACertService \
